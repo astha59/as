@@ -1,0 +1,18 @@
+{
+    "unique_name": "candidate-14569",
+    "type": "uielement_app",
+    "function_deploy": {
+        "enabled": "enabled",
+        "function_version": "0.0.0"
+    },
+    "registry_deploy": {
+        "registry_version": "0.0.34",
+        "forced_deployment": "disabled"
+    } ,
+    "ui_element": {        
+        "component_name": "candidate-module",        
+        "menu_name": "candidate",        
+        "menu_icon": "",        
+        "description": ""    
+      }
+}
